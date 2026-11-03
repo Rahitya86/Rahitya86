@@ -1,26 +1,11 @@
 <h1 align="center">ULAPALLI DEVI SAI RAHITYA</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=780&lines=Robotics+Software+Engineer;Robotic+Perception+Engineer;Autonomous+Systems+Developer;Computer+Vision+Engineer;ROS+2+Developer" alt="Robotics engineer roles" />
+  <strong>Robotics Software Engineer | Robotic Perception | Autonomous Systems</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ROS-2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/PX4-1F6FEB?style=for-the-badge&logo=drone&logoColor=white" alt="PX4" />
-  <img src="https://img.shields.io/badge/Nav2-0EA5E9?style=for-the-badge&logo=ros&logoColor=white" alt="Nav2" />
-  <img src="https://img.shields.io/badge/Gazebo-7C3AED?style=for-the-badge&logo=linux&logoColor=white" alt="Gazebo" />
-</p>
-
-<p align="center">
-  Robotics & Computer Vision Engineer | Autonomous Systems | Robotic Perception | ROS 2
-</p>
-
-<p align="center">
-  Robotics engineer with hands-on work in ROS 2-based autonomous systems, RGB-D and LiDAR perception, SLAM, computer vision, and PX4 drone autonomy. I focus on autonomous navigation, perception-driven decision making, and system validation for mobile robotics and drone workflows.
+  Robotics engineer focused on ROS 2-based autonomous systems, RGB-D and LiDAR perception, SLAM, computer vision, and PX4 drone autonomy. I work across perception, navigation, motion planning, and simulation for mobile robots and autonomous platforms.
 </p>
 
 <p align="center">
@@ -30,7 +15,7 @@
 </p>
 
 <div align="center">
-  <svg width="980" height="220" viewBox="0 0 980 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Autonomous robotics workstation"> 
+  <svg width="980" height="220" viewBox="0 0 980 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Autonomous robotics engineering illustration">
     <rect width="980" height="220" rx="20" fill="#0B1220"/>
     <rect x="18" y="18" width="944" height="184" rx="16" fill="#101C2F" stroke="#213B5F"/>
     <path d="M72 150H255" stroke="#67E8F9" stroke-width="2" opacity="0.9"/>
@@ -64,7 +49,7 @@
 
 ---
 
-## Robotics Specialization
+## Technical Expertise
 
 ### Robotic Perception
 - RGB-D perception
@@ -97,62 +82,37 @@
 - Autonomous precision landing
 - Gazebo SITL
 
----
-
-## Technical Toolkit
-
-### Programming
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
-
-### Robotics Middleware
-<img src="https://img.shields.io/badge/ROS-2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2" />
-<img src="https://img.shields.io/badge/Nav2-0EA5E9?style=flat-square&logo=ros&logoColor=white" alt="Nav2" />
-<img src="https://img.shields.io/badge/RTABMap-5B21B6?style=flat-square" alt="RTAB-Map" />
-<img src="https://img.shields.io/badge/tf2-7C3AED?style=flat-square" alt="tf2" />
-
-### Computer Vision and AI
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/YOLOv8-00A0FF?style=flat-square" alt="YOLOv8" />
-
-### Simulation
-<img src="https://img.shields.io/badge/Gazebo-89CFF0?style=flat-square&logo=linux&logoColor=white" alt="Gazebo" />
-<img src="https://img.shields.io/badge/Gazebo%20SITL-7C3AED?style=flat-square" alt="Gazebo SITL" />
-<img src="https://img.shields.io/badge/RViz2-0F172A?style=flat-square" alt="RViz2" />
-
-### Sensors and Perception
-<img src="https://img.shields.io/badge/RGB--D-22D3EE?style=flat-square" alt="RGB-D" />
-<img src="https://img.shields.io/badge/LiDAR-67E8F9?style=flat-square" alt="LiDAR" />
-<img src="https://img.shields.io/badge/PointCloud2-8B5CF6?style=flat-square" alt="PointCloud2" />
+### Tools and Stack
+- Python, C++, OpenCV, PyTorch, YOLOv8
+- Gazebo, Gazebo SITL, RViz2
+- Ubuntu Linux, Git, ROS 2 tooling
 
 ---
 
 ## Featured Projects
 
-### Semantic RGB-D Navigation System for Autonomous Mobile Robot
+### 1. Semantic RGB-D Navigation System for Autonomous Mobile Robot
 https://github.com/Rahitya86/Semantic-RGB-D-Navigation-System-for-Autonomous-Mobile-Robot
 
 ROS 2 autonomous navigation system integrating RGB-D perception, semantic mapping, RTAB-Map SLAM, and Nav2 costmap integration.
 
 Technology: ROS 2, Nav2, RTAB-Map, Gazebo, OpenCV, PointCloud2, tf2
 
-### Autonomous Mobile Manipulation System (AMMS)
+### 2. Autonomous Mobile Manipulation System (AMMS)
 https://github.com/Rahitya86/autonomous-mobile-manipulation-system
 
 Autonomous mobile manipulator integrating RGB-D/LiDAR perception, Nav2 navigation, robotic arm control, task execution, and pick-and-place workflows.
 
 Technology: ROS 2, Gazebo, Nav2, RGB-D, LiDAR, Python
 
-### Live Monocular Depth & Object Detection AI
+### 3. Live Monocular Depth & Object Detection AI
 https://github.com/Rahitya86/Live-Monocular-Depth-Object-Detection-AI
 
 Real-time computer vision pipeline combining object detection and monocular depth estimation using PyTorch, OpenCV, and YOLOv8.
 
 Technology: Python, PyTorch, OpenCV, YOLOv8, depth estimation
 
-### Autonomous Obstacle Avoider (Vision)
+### 4. Autonomous Obstacle Avoider (Vision)
 https://github.com/Rahitya86/Autonomous-Obstacle-Avoider-vision-
 
 Vision-based obstacle avoidance project focused on perception-driven autonomous navigation and robot motion.
@@ -164,12 +124,11 @@ Technology: Computer vision, autonomous navigation, Python
 ## Professional Experience
 
 ### Robotics Research Intern — IIIT-H Robotics Research Center (RRC)
-June 2026 – September 2026
+**June 2026 – September 2026**
 
 - ROS 2/Gazebo research workflows for mobile manipulation and PX4-based drone systems.
-- Nav2 navigation and point-cloud-to-LaserScan processing.
-- Costmap tuning and PX4 offboard control.
-- RGB-D/LiDAR perception and mission-state logic.
+- Nav2 navigation, point-cloud-to-LaserScan processing, and costmap tuning.
+- RGB-D/LiDAR perception and mission-state logic for autonomous tasks.
 - Validation of grasping, navigation, placement, and autonomous landing workflows.
 
 ---
@@ -187,7 +146,7 @@ June 2026 – September 2026
 
 ---
 
-## Current Research & Development
+## Current Engineering Focus
 
 Semantic RGB-D perception, SLAM-integrated navigation, ROS 2 autonomy stacks, autonomous mobile manipulation, PX4 drone autonomy, and real-time depth estimation.
 
